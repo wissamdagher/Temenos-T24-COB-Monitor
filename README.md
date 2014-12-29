@@ -11,3 +11,5 @@ This application is using laravel 4 and bootstrap 3.0 as well as many other comp
 
 This application uses beanstalk queues to load JOB.TIMES inside mysql database
 
+![](https://raw.githubusercontent.com/wissamdagher/Temenos-T24-COB-Monitor/master/examples/images/COB_daily.png)
+
