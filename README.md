@@ -10,3 +10,4 @@ We wanted to monitor COB (Close of business ) time over a period of time.
 This application is using laravel 4 and bootstrap 3.0 as well as many other components listed inside composer file
 
 This application uses beanstalk queues to load JOB.TIMES inside mysql database
+
